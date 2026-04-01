@@ -4,7 +4,7 @@ import { motion } from "framer-motion"
 
 export default function LetterPage({ setCurrentPage }) {
   const handleContinue = () => {
-    setCurrentPage("hug")
+    setCurrentPage("gift")
   }
 
   return (
