@@ -7,7 +7,6 @@ import OpeningPage from "@/components/OpeningPage"
 import DiaryPage from "@/components/DiaryPage"
 import ApologyPage from "@/components/ApologyPage"
 import LetterPage from "@/components/LetterPage"
-import HugPage from "@/components/HugPage"
 import GiftPage from "@/components/GiftPage"
 import MusicPlayer from "@/components/MusicPlayer"
 
@@ -21,7 +20,6 @@ export default function Home() {
     diary: DiaryPage,
     apology: ApologyPage,
     letter: LetterPage,
-    hug: HugPage,
     gift: GiftPage,
   }
 
